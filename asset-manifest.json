@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notes-Keeper-using-React/static/css/main.ebc702c4.css",
+    "main.js": "/Notes-Keeper-using-React/static/js/main.a7ceac23.js",
+    "index.html": "/Notes-Keeper-using-React/index.html",
+    "main.ebc702c4.css.map": "/Notes-Keeper-using-React/static/css/main.ebc702c4.css.map",
+    "main.a7ceac23.js.map": "/Notes-Keeper-using-React/static/js/main.a7ceac23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc702c4.css",
+    "static/js/main.a7ceac23.js"
+  ]
+}
