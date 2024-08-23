@@ -29,7 +29,7 @@ const NoteArea = (props) => {
 
   return (
     <div>
-      <form className=' relative w-1/3 my-7 mx-auto bg-white p-4 shadow-md rounded-lg'>
+      <form className=' relative w-2/3 sm:w-1/3 my-7 mx-auto bg-white p-4 shadow-md rounded-lg'>
      
         <input className='w-full border-none outline-none p-1 text-xl resize-none'
 
